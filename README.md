@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning python and html/css
+- 💻 Bachelor's degree in control and automation engineering
 - 🔭 I’m currently working on a discord bot
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i do watercollor sometimes 
