@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning python and html/css
+- 🌱 I’m currently working as a full stack developer
 - 💻 Bachelor's degree in control and automation engineering
-- 🔭 I’m currently working on a discord bot
+- 🔭 Love learning 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i do watercollor sometimes 
 - 📫 How to reach me: @jubsin on instagram
